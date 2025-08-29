@@ -1,3 +1,5 @@
+// Practice Questions
+
 // Area of Cricle
 
 import java.util.Scanner;
@@ -134,6 +136,9 @@ public class No1 {
    }
 }
 
+
+// Swaping of the two numbers
+
 import java.util.Scanner;
 public class No1{
    public static void main(String[] args) {
@@ -149,6 +154,9 @@ public class No1{
        b = temp;
    }
 }
+
+
+// Swaping of the two numbers using Array
 
 import java.util.Scanner;
 public class No1 {
