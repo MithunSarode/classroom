@@ -1,5 +1,6 @@
-import java.util.Scanner;
+// Prime number or not
 
+import java.util.Scanner;
 public class Calc {
    public static void main(String[] args) {
        Scanner in = new Scanner(System.in);
