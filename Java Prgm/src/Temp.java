@@ -1,3 +1,5 @@
+// This code represntate the convertion of the temperature from "Degree Celsius" to "Fahrenheit"
+
 import java.util.Scanner;
 
 public class Temp {
