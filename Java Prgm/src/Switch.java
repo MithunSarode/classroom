@@ -1,3 +1,5 @@
+// This is the using of the Switch Statement in two ways
+
 import java.util.Scanner;
 
 public class Switch {
